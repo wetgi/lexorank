@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "lexorank"
-version = "1.0.0"
+version = "1.0.1"
 description = "lexorank is a ranking system introduced by Atlassian JIRA."
 authors = ["Gilles Wetzel <gilles@wetzel.lu>"]
 keywords = ["lexorank", "ranking"]
